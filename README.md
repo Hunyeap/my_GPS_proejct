@@ -1,1 +1,1 @@
-# my_GPS_proejct
+# my_GPS_project
